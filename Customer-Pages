@@ -1,0 +1,13 @@
+src/
+├── components/
+│   ├── Customer/
+│   │   ├── ProductList.js
+│   │   ├── ProductDetails.js
+│   │   ├── ShoppingCart.js
+│   │   ├── OrderTracking.js
+│   │   ├── Profile.js
+├── pages/
+│   ├── CustomerHomePage.js
+│   ├── CustomerProductPage.js
+│   ├── CustomerOrderPage.js
+│   ├── CustomerProfilePage.js
