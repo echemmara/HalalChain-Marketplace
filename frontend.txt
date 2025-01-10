@@ -1,0 +1,26 @@
+halal-logistics-frontend/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── VendorDashboard/
+│   │   │   ├── Dashboard.js
+│   │   │   ├── StatsCard.js
+│   │   │   ├── RecentOrders.js
+│   │   │   ├── Sidebar.js
+│   │   │   └── Navbar.js
+│   │   ├── ProductManagement/
+│   │   │   ├── ProductList.js
+│   │   │   ├── AddProduct.js
+│   │   │   ├── ProductForm.js
+│   │   └── OrderTracking/
+│   │       ├── OrderList.js
+│   │       ├── OrderDetails.js
+│   │       └── TrackingMap.js
+│   ├── pages/
+│   │   ├── VendorDashboardPage.js
+│   │   ├── ProductManagementPage.js
+│   │   ├── OrderTrackingPage.js
+│   │   ├── CertificationPage.js
+│   ├── App.js
+│   ├── index.js
+├── package.json

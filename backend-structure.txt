@@ -1,0 +1,27 @@
+halal-logistics/
+├── controllers/
+│   ├── authController.js
+│   ├── productController.js
+│   ├── vendorController.js
+│   ├── orderController.js
+│   ├── certificationController.js
+├── models/
+│   ├── User.js
+│   ├── Product.js
+│   ├── Vendor.js
+│   ├── Order.js
+│   ├── Certification.js
+├── routes/
+│   ├── authRoutes.js
+│   ├── productRoutes.js
+│   ├── vendorRoutes.js
+│   ├── orderRoutes.js
+│   ├── certificationRoutes.js
+├── config/
+│   ├── db.js
+│   ├── keys.js
+├── middlewares/
+│   ├── authMiddleware.js
+├── app.js
+├── server.js
+├── .env
